@@ -2,7 +2,7 @@
 
 _2025 Public Version_
 
-This repository contains the code for Team 1678's Picklist Editor app. For an in-depth explanation of our scouting system, please see our [2025 Whitepaper]().
+This repository contains the code for Team 1678's Picklist Editor app. For an in-depth explanation of our scouting system, please see our [2025 Whitepaper](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/whitepaper_2025_-_final.pdf).
 
 [![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp) [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
